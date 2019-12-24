@@ -2,3 +2,4 @@
 
 ÅEgit add
 ÅEgit commit
+ÅEgit rm
